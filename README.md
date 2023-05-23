@@ -1,5 +1,6 @@
 ### Olá eu sou o Lucas !
-Atualmente trabalho com analise de sistemas e estudo Python.
+Analista de suporte JR.
+Buscando me especializar em segurança da informação.
 
 <div align="center">
   <a href="https://github.com/LucasNasc12">
